@@ -1,0 +1,61 @@
+Estrutura recomendada do relatório
+1. Introdução
+
+O objetivo do projeto foi desenvolver um website responsivo utilizando HTML5, CSS3 e JavaScript, aplicando os conceitos estudados na disciplina de Programação Front-End.
+
+2. Tecnologias utilizadas
+
+Você pode colocar:
+
+HTML5
+CSS3
+JavaScript
+Bootstrap
+VS Code
+Live Server
+3. Estrutura do site
+
+Páginas:
+
+Home
+
+Apresentação da empresa.
+
+Serviços
+
+Descrição dos serviços industriais.
+
+Sobre
+
+História da empresa.
+
+Contato
+
+Formulário com validação JS.
+
+4. Funcionalidades implementadas
+
+✅ Menu responsivo
+✅ Dark Mode
+✅ Contador animado
+✅ Formulário validado
+✅ Responsividade
+✅ SEO básico
+
+5. Responsividade
+
+Foi utilizado Bootstrap e media queries para adaptação em dispositivos móveis e desktops.
+
+6. SEO
+
+meta description
+keywords
+alt em imagens
+
+7. Dificuldades encontradas
+
+Uma das dificuldades encontradas foi a organização da estrutura de pastas e o carregamento correto dos arquivos CSS e JavaScript utilizando caminhos relativos.
+
+8. Conclusão
+
+O projeto permitiu aplicar na prática os conhecimentos de Front-End, incluindo estruturação de páginas, estilização responsiva e interatividade com JavaScript.

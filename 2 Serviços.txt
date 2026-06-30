@@ -1,0 +1,33 @@
+2. Serviços (servicos.html)
+
+explica o que a empresa faz.
+
+Serviços sugeridos
+Integração SQL Server
+
+Texto:
+
+integração entre plantas
+sincronização de dados
+automação de processos
+Dashboards Inteligentes
+Power BI
+monitoramento
+indicadores em tempo real
+Automação Industrial
+rastreabilidade
+apontamento de produção
+integração de máquinas
+Monitoramento de Produção
+alertas
+produtividade
+gestão em tempo real
+Efeito JS legal aqui
+
+Cards com hover animado:
+
+Quando passa o mouse:
+
+aumenta levemente
+muda sombra
+aparece botão
